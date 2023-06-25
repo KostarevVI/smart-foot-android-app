@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/diagnosticFragment"
+        android:title="Диагностика" />
+    <item
+        android:id="@+id/trainingFragment"
+        android:title="Тренировка" />
+    <item
+        android:id="@+id/historyFragment"
+        android:title="История" />
+</menu>
